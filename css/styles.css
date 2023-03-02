@@ -40,7 +40,7 @@ h1 {
   transition: 0.5s;
 }
 
-h2 {
+.bottom {
     position: absolute;
         bottom: 0;
         right: 0;
