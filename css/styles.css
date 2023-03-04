@@ -45,6 +45,7 @@ h1 {
 }
 
 .bottom {
+    color: black;
     position: absolute;
         bottom: 0;
         right: 0;
