@@ -22,6 +22,10 @@ header {
   padding: 5px;
 }
 
+h2 {
+ color: black;
+}
+
 h1 {
   text-shadow: 1px 1px 1px rgba(50, 50, 50, 0.3);
 }
