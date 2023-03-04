@@ -23,6 +23,7 @@ header {
 }
 
 h2 {
+ padding: 15px 0;
  color: black;
  text-shadow: 1px 1px 1px rgba(50, 50, 50, 0.3);
 }
