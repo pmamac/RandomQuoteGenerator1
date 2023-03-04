@@ -46,6 +46,7 @@ h1 {
 
 .bottom {
     color: black;
+    text-shadow: 1px 1px 1px rgba(50, 50, 50, 0.3);
     position: absolute;
         bottom: 0;
         right: 0;
